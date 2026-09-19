@@ -1,242 +1,333 @@
-<div align="center">
+<div dir="rtl">
 
-# ⚡ PLC Ladder Simulator
+# ⚡ شبیه‌ساز PLC لدر و اتوماسیون صنعتی
 
-### شبیه‌ساز PLC لدر و اتوماسیون صنعتی
+## 🚀 اجرای آنلاین
 
-<br>
+برای اجرای مستقیم برنامه، بدون نیاز به نصب نرم‌افزار:
 
+<p align="center">
 <a href="https://amirhossein-rezaeian.github.io/PLC-Ladder-Simulator/">
-<img src="https://img.shields.io/badge/▶%20LAUNCH%20SIMULATOR-00C853?style=for-the-badge&labelColor=111827" alt="Launch Simulator" width="420" height="80">
+<img src="https://img.shields.io/badge/🚀%20اجرای%20آنلاین%20شبیه‌ساز-00C853?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" height="55">
 </a>
+</p>
 
-<br><br>
-
-### 🇮🇷 اجرای آنلاین شبیه‌ساز PLC
-
-**برای ورود به برنامه روی دکمه سبز بالا کلیک کنید.**
-
-<br>
-
-### 🇬🇧 Run the PLC Simulator Online
-
-**Click the green button above to launch the simulator.**
-
-<br><br>
-
-</div>
+<p align="center">
+<b>PLC Ladder Simulator</b><br>
+شبیه‌سازی و تمرین برنامه‌نویسی PLC با استفاده از منطق Ladder
+</p>
 
 ---
 
-# 🇮🇷 درباره پروژه
+## 👨‍💻 درباره پروژه
 
-**PLC Ladder Simulator** یک پروژه جدید برای شبیه‌سازی، آموزش و تمرین برنامه‌نویسی PLC به زبان **Ladder Logic** است.
-
-این پروژه با هدف ایجاد یک محیط تعاملی برای دانشجویان، مهندسان، تکنسین‌ها و علاقه‌مندان به **PLC و اتوماسیون صنعتی** توسعه داده شده است.
-
-کاربر می‌تواند منطق کنترلی خود را طراحی کند و عملکرد آن را در محیط شبیه‌سازی مشاهده کند.
-
----
-
-# 🚀 اجرای آنلاین
-
-<div align="center">
-
-<a href="https://amirhossein-rezaeian.github.io/PLC-Ladder-Simulator/">
-
-<img src="https://img.shields.io/badge/▶%20OPEN%20PLC%20SIMULATOR-00C853?style=for-the-badge&labelColor=111827" alt="Open PLC Simulator" width="450" height="85">
-
-</a>
-
-<br><br>
-
-## 🟢 شبیه‌ساز را همین حالا اجرا کنید
-
-**بدون نصب نرم‌افزار و مستقیماً از داخل مرورگر**
-
-<br>
-
-**Run directly in your browser — No installation required**
-
-</div>
-
----
-
-# 🎯 هدف پروژه
-
-تمرکز اصلی این پروژه روی **یادگیری عملی PLC و منطق Ladder** است.
-
-### حوزه‌های اصلی پروژه
+این پروژه یکی از پروژه‌های جدید من در حوزه:
 
 * ⚡ برنامه‌نویسی PLC
 * 🔌 Ladder Logic
 * 🏭 اتوماسیون صنعتی
-* 🎛️ سیستم‌های کنترل
+* 🎛️ مهندسی کنترل
 * 🧪 شبیه‌سازی فرآیندهای صنعتی
-* 🎓 آموزش PLC
-* 🧠 طراحی منطق کنترلی
+* 🎓 آموزش و یادگیری عملی
+* 💻 توسعه نرم‌افزارهای مهندسی
+
+است.
+
+هدف پروژه ایجاد یک محیط تعاملی برای **یادگیری، تمرین و شبیه‌سازی منطق کنترلی PLC** است.
+
+کاربر می‌تواند منطق کنترلی خود را طراحی کرده و رفتار سیستم را در محیط شبیه‌سازی مشاهده کند.
 
 ---
 
-# 🏭 شبیه‌سازی اتوماسیون صنعتی
+## 🏭 تمرکز اصلی پروژه
 
-یکی از اهداف پروژه، ایجاد بستری برای تمرین سناریوهای صنعتی است.
+این پروژه صرفاً یک محیط برای رسم Ladder نیست.
 
-سناریوهای قابل توسعه شامل مواردی مانند:
+هدف اصلی، نزدیک‌کردن آموزش PLC به شرایط واقعی صنعت است.
+
+در نسخه‌های توسعه‌یافته پروژه می‌توان سناریوهایی مانند موارد زیر را شبیه‌سازی کرد:
 
 * ⚙️ کنترل موتور
-* 🔄 مدارهای Start / Stop
-* 💧 مخزن و پمپ
+* 🔄 مدار Start / Stop
+* 💧 کنترل مخزن و پمپ
 * 🚦 کنترل فرآیند
-* 📦 خطوط انتقال
+* 📦 سیستم‌های انتقال
 * 🏭 ماشین‌آلات صنعتی
 * 🔌 ورودی و خروجی‌های PLC
+* ⏱️ تایمرها و شمارنده‌ها
+* 🧠 منطق‌های کنترلی
+* 📊 نمایش وضعیت فرآیند
 
 ---
 
-# 💡 ویژگی‌ها
+## 🎓 کاربرد آموزشی
 
-| ویژگی         | توضیح                             |
-| ------------- | --------------------------------- |
-| ⚡ PLC         | تمرین برنامه‌نویسی PLC            |
-| 🔌 Ladder     | طراحی منطق Ladder                 |
-| 🏭 Automation | مفاهیم اتوماسیون صنعتی            |
-| 🎛️ Control   | منطق و سیستم‌های کنترلی           |
-| 🧪 Simulation | مشاهده رفتار سیستم                |
-| 🌐 Web        | اجرای مستقیم در مرورگر            |
-| 📱 Responsive | قابل استفاده روی دستگاه‌های مختلف |
-| 🎓 Education  | مناسب آموزش و تمرین               |
+این پروژه می‌تواند برای گروه‌های زیر مورد استفاده قرار بگیرد:
+
+* دانشجویان مهندسی برق
+* دانشجویان مهندسی کنترل
+* دانشجویان اتوماسیون صنعتی
+* هنرجویان PLC
+* تکنسین‌های برق صنعتی
+* علاقه‌مندان به سیستم‌های کنترل
+* افرادی که می‌خواهند Ladder Logic را به‌صورت عملی تمرین کنند
+
+هدف این است که کاربر فقط کد PLC را ننویسد؛ بلکه **نتیجه اجرای منطق کنترلی خود را نیز مشاهده کند.**
 
 ---
 
-# 🌐 Web Application
+## 🌐 نسخه تحت وب
 
-نسخه آنلاین پروژه روی **GitHub Pages** منتشر شده است.
+نسخه Web Application پروژه روی GitHub Pages منتشر شده است.
+
+برای استفاده از نسخه آنلاین نیازی به نصب نرم‌افزار نیست.
+
+<p align="center">
+<a href="https://amirhossein-rezaeian.github.io/PLC-Ladder-Simulator/">
+<img src="https://img.shields.io/badge/OPEN%20PLC%20SIMULATOR-00C853?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" height="55">
+</a>
+</p>
+
+---
+
+## 🧩 ویژگی‌های پروژه
+
+| بخش                      | توضیح                              |
+| ------------------------ | ---------------------------------- |
+| ⚡ PLC                    | تمرین برنامه‌نویسی PLC             |
+| 🔌 Ladder Logic          | طراحی منطق کنترلی                  |
+| 🏭 Industrial Automation | مفاهیم اتوماسیون صنعتی             |
+| 🎛️ Control Systems      | سیستم‌های کنترل                    |
+| 🧪 Simulation            | شبیه‌سازی عملکرد سیستم             |
+| 🌐 Web Application       | اجرای مستقیم در مرورگر             |
+| 📱 Responsive            | قابلیت استفاده در دستگاه‌های مختلف |
+| 🎓 Education             | مناسب آموزش و تمرین                |
+
+---
+
+# 👨‍💻 درباره سازنده
 
 <div align="center">
 
-<a href="https://amirhossein-rezaeian.github.io/PLC-Ladder-Simulator/">
+## امیرحسین رضائیان
 
-<img src="https://img.shields.io/badge/🚀%20START%20SIMULATOR-1976D2?style=for-the-badge&labelColor=0B1220" alt="Start Simulator" width="420" height="75">
+**Amirhossein Rezaeian**
 
-</a>
+طراح سایت • توسعه‌دهنده وب و اپلیکیشن • مهندسی کنترل • برق و اتوماسیون صنعتی
 
 </div>
 
-<br>
+من در زمینه توسعه نرم‌افزار، طراحی وب، توسعه اپلیکیشن، PLC، مهندسی کنترل و اتوماسیون صنعتی فعالیت می‌کنم.
 
-نسخه آنلاین را می‌توانید بدون نصب نرم‌افزار تخصصی و مستقیماً از مرورگر اجرا کنید.
+این پروژه بخشی از مجموعه پروژه‌هایی است که با هدف ترکیب **مهندسی، برنامه‌نویسی، شبیه‌سازی و آموزش** توسعه داده می‌شوند.
+
+---
+
+# 🌐 وب‌سایت شخصی من
+
+برای مشاهده پروژه‌ها، آموزش‌ها، نرم‌افزارها و فعالیت‌های من:
+
+<p align="center">
+<a href="https://autorz.ir/">
+<img src="https://img.shields.io/badge/🌐%20وب‌سایت%20شخصی-Amirhossein%20Rezaeian-1565C0?style=for-the-badge&logo=googlechrome&logoColor=white" height="55">
+</a>
+</p>
+
+**وب‌سایت:**
+https://autorz.ir/
+
+در وب‌سایت شخصی من بخش‌هایی مانند آموزش‌ها، پروژه‌ها، نرم‌افزارها و فعالیت‌های مرتبط با برنامه‌نویسی، اینترنت اشیا، PLC و اتوماسیون صنعتی معرفی می‌شوند.
+
+---
+
+# 🎓 آموزش‌های من در فرادرس
+
+بخشی از آموزش‌های من در پلتفرم **فرادرس** منتشر شده است.
+
+از جمله آموزش‌های مرتبط با:
+
+**NodeMCU و ESP8266 و پروژه‌های اینترنت اشیا**
+
+برای مشاهده آموزش‌ها:
+
+<p align="center">
+<a href="https://faradars.org/">
+<img src="https://img.shields.io/badge/🎓%20مشاهده%20آموزش‌ها%20در%20فرادرس-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white" height="55">
+</a>
+</p>
+
+---
+
+# 📱 اپلیکیشن‌های من
+
+من در کنار توسعه نرم‌افزارهای تحت وب، روی توسعه اپلیکیشن‌های Android نیز فعالیت می‌کنم.
+
+## 🟢 مایکت
+
+برای مشاهده اپلیکیشن‌های منتشرشده:
+
+<p align="center">
+<a href="https://myket.ir/">
+<img src="https://img.shields.io/badge/📱%20اپلیکیشن‌های%20من%20در%20مایکت-2E7D32?style=for-the-badge&logo=android&logoColor=white" height="55">
+</a>
+</p>
+
+---
+
+## 🟢 کافه‌بازار
+
+برای مشاهده برنامه‌ها و اپلیکیشن‌های منتشرشده:
+
+<p align="center">
+<a href="https://cafebazaar.ir/">
+<img src="https://img.shields.io/badge/📱%20اپلیکیشن‌های%20من%20در%20کافه‌بازار-1976D2?style=for-the-badge&logo=android&logoColor=white" height="55">
+</a>
+</p>
+
+---
+
+# 🚀 پروژه‌های من
+
+این پروژه بخشی از مجموعه پروژه‌هایی است که در حوزه‌های مختلف توسعه داده می‌شوند.
+
+### ⚡ مهندسی و اتوماسیون
+
+* PLC
+* Ladder Logic
+* Industrial Automation
+* Control Systems
+* Process Simulation
+
+### 💻 نرم‌افزار و وب
+
+* Web Applications
+* Android Applications
+* HTML / CSS / JavaScript
+* Interactive Engineering Tools
+* Educational Software
+
+### 🤖 هوش مصنوعی و اینترنت اشیا
+
+* Artificial Intelligence
+* IoT
+* ESP8266
+* NodeMCU
+* Engineering Applications
+
+---
+
+# 📌 وضعیت پروژه
+
+🟢 **پروژه جدید — در حال توسعه**
+
+این پروژه به‌صورت مستمر توسعه داده می‌شود و قابلیت‌های جدیدی برای آموزش PLC، شبیه‌سازی فرآیندهای صنعتی و تمرین Ladder Logic به آن اضافه خواهد شد.
+
+---
+
+# ⭐ حمایت از پروژه
+
+اگر این پروژه برای شما مفید بود:
+
+⭐ به Repository ستاره بدهید.
+
+🐛 مشکلات یا پیشنهادهای خود را در بخش Issues مطرح کنید.
+
+💡 پیشنهادهای شما می‌تواند در توسعه نسخه‌های بعدی پروژه استفاده شود.
 
 ---
 
 # 🇬🇧 English
 
-## About
+## ⚡ PLC Ladder Simulator
 
-**PLC Ladder Simulator** is a new project focused on **PLC programming, Ladder Logic, industrial automation, simulation, and engineering education**.
+PLC Ladder Simulator is a new engineering project focused on:
 
-The project provides an interactive environment for students, engineers, technicians, and industrial automation enthusiasts to practice PLC programming and control logic.
+* PLC Programming
+* Ladder Logic
+* Industrial Automation
+* Control Systems
+* Process Simulation
+* Engineering Education
+* Practical PLC Training
 
-Users can create control logic and observe its behavior inside a simulated environment.
+The project is designed to provide an interactive environment for learning and practicing PLC control logic.
 
 ---
 
-## 🚀 Launch Online
+## 🚀 Run Online
 
-<div align="center">
+The simulator is available as a Web Application and can be launched directly from the browser.
 
+<p align="center">
 <a href="https://amirhossein-rezaeian.github.io/PLC-Ladder-Simulator/">
-
-<img src="https://img.shields.io/badge/▶%20LAUNCH%20SIMULATOR-00C853?style=for-the-badge&labelColor=111827" alt="Launch Simulator" width="450" height="85">
-
+<img src="https://img.shields.io/badge/🚀%20RUN%20PLC%20SIMULATOR%20ONLINE-00C853?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" height="55">
 </a>
+</p>
 
-<br><br>
-
-### Run the simulator directly in your browser.
-
-**No additional software installation is required for the online version.**
-
-</div>
+No software installation is required for the online version.
 
 ---
 
 ## 🎯 Project Focus
 
-The project focuses on practical PLC and industrial automation learning.
+The project focuses on practical PLC and industrial automation education.
 
-* ⚡ PLC Programming
-* 🔌 Ladder Logic
-* 🏭 Industrial Automation
-* 🎛️ Control Systems
-* 🧪 Industrial Process Simulation
-* 🎓 Engineering Education
-* 🧠 Control Logic
+Possible simulation scenarios include:
 
----
-
-# 👨‍💻 Developer
-
-<div align="center">
-
-## Amirhossein Rezaeian
-
-### امیرحسین رضائیان
-
-**Software Developer • Web Developer • Application Developer**
-
-**Control Engineering • PLC • Industrial Automation**
-
-</div>
-
-این پروژه یکی از **پروژه‌های جدید من** در زمینه PLC، اتوماسیون صنعتی، شبیه‌سازی و آموزش مهندسی است.
-
-This is one of my **new projects** focused on PLC programming, industrial automation, simulation, and engineering education.
+* Motor Control
+* Start / Stop Circuits
+* Tank and Pump Control
+* Industrial Processes
+* Conveyor Systems
+* Industrial Machines
+* PLC Inputs and Outputs
+* Timers and Counters
+* Control Logic
 
 ---
 
-# 🚧 Project Status
+## 👨‍💻 Developer
 
-<div align="center">
+**Amirhossein Rezaeian**
 
-### 🟢 New Project — Under Active Development
+Software Developer • Web Developer • Application Developer
 
-</div>
+Control Engineering • PLC • Industrial Automation
 
-پروژه در حال توسعه است و قابلیت‌های جدیدی برای شبیه‌سازی، آموزش و سناریوهای صنعتی به آن اضافه خواهد شد.
+---
+
+## 🌐 Personal Website
+
+https://autorz.ir/
+
+## 🎓 Faradars
+
+https://faradars.org/
+
+## 📱 Myket
+
+https://myket.ir/
+
+## 📱 CafeBazaar
+
+https://cafebazaar.ir/
 
 ---
 
 # ⭐ Support
 
-اگر پروژه برای شما مفید بود، می‌توانید Repository را ⭐ **Star** کنید.
+If you find this project useful, consider giving the repository a ⭐ Star.
 
-If you find this project useful, consider giving the repository a ⭐ **Star**.
+More features and industrial simulation scenarios will be added in future versions.
 
 ---
 
 <div align="center">
 
-# 🚀 Ready to Try?
-
-<br>
-
-<a href="https://amirhossein-rezaeian.github.io/PLC-Ladder-Simulator/">
-
-<img src="https://img.shields.io/badge/▶%20LAUNCH%20PLC%20LADDER%20SIMULATOR-00C853?style=for-the-badge&labelColor=111827" alt="Launch PLC Ladder Simulator" width="500" height="90">
-
-</a>
-
-<br><br>
-
-### 🇮🇷 اجرای آنلاین شبیه‌ساز
-
-### 🇬🇧 Launch Online Simulator
-
-<br>
-
-**PLC Ladder Simulator**
+### ⚡ PLC • Ladder Logic • Control • Automation • Simulation
 
 **Built by Amirhossein Rezaeian**
+
+</div>
 
 </div>
